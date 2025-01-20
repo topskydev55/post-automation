@@ -1,0 +1,91 @@
+"Job_Number","Account_Code","Customer_Name","Job_Type","Del_Type","Work_Type","OrderNo","Ref2","Ref3","Goods","Quantity","Weight","Distance","Volume","Collection_Add_1","Collection_Add_2","Collection_Add_3","Collection_Add_4","Collection_Add_5","Collection_PostCode","Collection_Date","Collection_Time","Delivery_Add_1","Delivery_Add_2","Delivery_Add_3","Delivery_Add_4","Delivery_Add_5","Delivery_PostCode","Delivery_Date","Delivery_Time","Notes","Instructions","Job_Rate","ColZone","DelZone"
+"112001","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8512","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","27/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","27/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112002","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8513","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","27/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","27/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112004","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8515","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","28/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","28/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112005","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8516","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","29/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","29/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112006","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8517","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","29/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","29/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112008","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8519","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","30/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","30/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112009","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8520","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","31/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","31/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112010","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8521","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","31/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","31/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112028","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/854","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","21/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","21/01/2025","15:00-22:00","Artic Taut",,"425","SWA","EAN"
+"112098","B/69","BBS Brick & Stone Ltd","HSU",,"GEN","W86716 A&B",,,"Bricks","0","0","215","0","BBS Brick & Stone ltd","Sandy Hill Lane",,"Ipswich",,"IP3 0ET","21/01/2025","07:30-15:30","Balfour Beatty Group","Project CRMCS076/CRMCS048","2 VALLEY Rd, opp Travelodge","Bradford",,"BD1 4AF","22/01/2025","08:00-12:00",,,"400","EAN","Y/H"
+"112171","P/65","Pro Environmental Ltd","CSU",,"GEN","PO3441","01/OUT/BOR003",,"RDF Bales","0","0","83","0","Pro Environmental","Hollinwood Lane","Calverton","Nottingham",,"NG14 6NR","20/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","20/01/2025","08:00-16:00",,,"0","MID","MID"
+"112172","P/65","Pro Environmental Ltd","CSU",,"GEN","PO3441","01/OUT/BOR003",,"RDF Bales","0","0","83","0","Pro Environmental","Hollinwood Lane","Calverton","Nottingham",,"NG14 6NR","20/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","20/01/2025","08:00-16:00",,,"0","MID","MID"
+"112173","P/65","Pro Environmental Ltd","CSU",,"GEN","PO","01/OUT/BOR008",,"RDF Bales","0","0","83","0","Pro Environmental","Hollinwood Lane","Calverton","Nottingham",,"NG14 6NR","21/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","21/01/2025","08:00-16:00",,,"240","MID","MID"
+"112174","P/65","Pro Environmental Ltd","CSU",,"GEN","PO3441","01/OUT/BOR003",,"RDF Bales","0","0","83","0","Pro Environmental","Hollinwood Lane","Calverton","Nottingham",,"NG14 6NR","21/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","21/01/2025","08:00-16:00",,,"0","MID","MID"
+"112200","D/60","DTS TRADING LTD","CSU",,"GEN","HTP2599 mixed load","TA040967/68/69/70",,"Bales","0","0","112","0","Biffa","Eversley Transfer Station","Starhill Sawmills","Hook",,"RG27 8BP","21/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","21/01/2025","06:00-16:00",,,"0","SEA","MID"
+"112201","D/60","DTS TRADING LTD","CSU",,"GEN","HTP2599 mixed load","TA040967/68/69/70",,"Bales","0","0","112","0","Biffa","Eversley Transfer Station","Starhill Sawmills","Hook",,"RG27 8BP","21/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","21/01/2025","06:00-16:00",,,"300","SEA","MID"
+"112240","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8514","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","28/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","28/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112267","B/69","BBS Brick & Stone Ltd","HSU",,"GEN",,,,"Bricks","0","0","225","0","BBS Brick & Stone ltd","Sandy Hill Lane",,"Ipswich",,"IP3 0ET","22/01/2025","07:30-15:30","Ford Civil Engineering","C/O C.G. Fry & Son, (C/O SWBS)","North Quadrant","Poundbury","Dorset","DT1 3RH","23/01/2025","08:00-15:30","TBC",,"480","EAN","SOC"
+"111999","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8510","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","24/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","24/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112305","D/60","DTS TRADING LTD","CSU",,"GEN","HTP2436","MVROT - 533",,"Bales","0","0","180","0","P & D Materials","Berth 6 , Basin 3","Chatham Dock","Gillingham",,"ME4 4SR","22/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","22/01/2025","06:00-16:00",,,"0","SEA","MID"
+"112306","D/60","DTS TRADING LTD","CSU",,"GEN","HTP2436","MVROT - 533",,"Bales","0","0","180","0","P & D Materials","Berth 6 , Basin 3","Chatham Dock","Gillingham",,"ME4 4SR","21/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","21/01/2025","06:00-16:00",,,"0","SEA","MID"
+"112307","D/60","DTS TRADING LTD","CSU",,"GEN","HTP2436","MVROT - 533",,"Bales","0","0","180","0","P & D Materials","Berth 6 , Basin 3","Chatham Dock","Gillingham",,"ME4 4SR","22/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","22/01/2025","06:00-16:00",,,"0","SEA","MID"
+"112309","N/42","N&P CRAYFORD MRF LTD","CSU",,"GEN","RN000364714","15FT  HEIGHT REST",,"Baled RDF","0","27000","264","0","N & P","Crayford Creek","Centry Wharf","Dartford",,"DA1 4QG","21/01/2025","08:00-18:00","SubCoal Teesport","Huntsman Drive","Port Clarance","Middlesbrough",,"TS2 1TT","22/01/2025","06:00-18:00",,,"0","SEA","NEA"
+"112310","N/42","N&P CRAYFORD MRF LTD","CSU",,"GEN","RN000364714","15FT  HEIGHT REST",,"Baled RDF","0","27000","264","0","N & P","Crayford Creek","Centry Wharf","Dartford",,"DA1 4QG","22/01/2025","08:00-18:00","SubCoal Teesport","Huntsman Drive","Port Clarance","Middlesbrough",,"TS2 1TT","23/01/2025","06:00-18:00",,,"0","SEA","NEA"
+"111436","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/855","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","21/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","21/01/2025","15:00-22:00","Artic Taut",,"425","SWA","EAN"
+"111437","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/856","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","22/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","22/01/2025","15:00-22:00","Artic Taut",,"425","SWA","EAN"
+"111438","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/857","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","22/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","22/01/2025","15:00-22:00","Artic Taut",,"425","SWA","EAN"
+"111439","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/858","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","23/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","23/01/2025","15:00-22:00","Artic Taut",,"425","SWA","EAN"
+"111440","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/859","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","23/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","23/01/2025","15:00-22:00","Artic Taut",,"425","SWA","EAN"
+"112334","G/38","Global Panel Products Ltd","HSU",,"GEN",,,,"Plywood","0","0","0","0","Mann & Son","The Navel House","King Quay Street","Harwich",,"CO12 3JJ","17/01/2025","08:00-15:30",,,,"West Bromwich",,"B70","20/01/2025","07:30-12:00",,,"360","EAN","MID"
+"112355","C/85","CTL EUROPE","HSU",,"GEN",,,"04/01/2017C/8518","Bales Paper","0","27000","244","0","Enava Ltd","Tripple Crown House","Llandow","Cardiff",,"CF71 7PB","30/01/2025","07:00-12:00","Palm Paper Ltd","Poplar Ave","Saddlebow Ind Estate","Kings Lynn",,"PE34 3AL","30/01/2025","15:00-22:00","Artic Taut",,"0","SWA","EAN"
+"112360","S/107","SUEZ Recycling & Recovery UK","HSU",,"GEN","REF 1498542",,,"Baled Cans","0","0","56","0","Suez Kirklees MRF","Vine Street",,"Huddersfield",,"HD1 6NT","22/01/2025","08:00-08:00","Tandem Metallurgical","Radnor Park Ind Est",,"Congleton",,"CW12 4XE","22/01/2025","09:00-16:00",,"REF 1498542
+
+PPE Waste Licence
+
+Min 13 ratchet straps
+
+POD to be freturned withnin 7 days from delivery","0","Y/H","LAN"
+"112363","B/43","Brisko Metal Resources","HSU",,"GEN",,,,"Scaffold Poles","0","0","0","0","Brisko Metal Resources","Old Hanson Depot","Sproughton Road","Ipswich",,"IP1 5AN","22/01/2025","08:00-15:00",,,,"Bristol",,"BS1","23/01/2025","08:00-12:00","FLAT or TAUT",,"480","EAN","SWE"
+"112364","B/43","Brisko Metal Resources","HSU",,"GEN",,,,"Scaffold Poles","0","0","284","0","Brisko Metal Resources","Old Hanson Depot","Sproughton Road","Ipswich",,"IP1 5AN","22/01/2025","08:00-15:00",,,,"Newton Abbot",,"TQ12","23/01/2025","08:00-12:00","FLAT or TAUT",,"580","EAN","SWE"
+"112390","D/60","DTS TRADING LTD","CSU",,"GEN","HTP2436","MVROT - 533",,"Bales","0","0","180","0","P & D Materials","Berth 6 , Basin 3","Chatham Dock","Gillingham",,"ME4 4SR","23/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","23/01/2025","06:00-16:00",,,"0","SEA","MID"
+"112391","D/60","DTS TRADING LTD","CSU",,"GEN","HTP2436","MVROT - 533",,"Bales","0","0","180","0","P & D Materials","Berth 6 , Basin 3","Chatham Dock","Gillingham",,"ME4 4SR","24/01/2025","08:00-15:00","DTS Trading","20 The Furlong","Berry Hill Ind Est","Droitwich",,"WR9 9AH","24/01/2025","06:00-16:00",,,"0","SEA","MID"
+"112392","N/42","N&P CRAYFORD MRF LTD","CSU",,"GEN","RN000364714","15FT  HEIGHT REST",,"Baled RDF","0","27000","264","0","N & P","Crayford Creek","Centry Wharf","Dartford",,"DA1 4QG","23/01/2025","08:00-18:00","SubCoal Teesport","Huntsman Drive","Port Clarance","Middlesbrough",,"TS2 1TT","24/01/2025","06:00-18:00",,,"0","SEA","NEA"
+"112393","N/42","N&P CRAYFORD MRF LTD","CSU",,"GEN","RN000364714","15FT  HEIGHT REST",,"Baled RDF","0","27000","264","0","N & P","Crayford Creek","Centry Wharf","Dartford",,"DA1 4QG","24/01/2025","08:00-18:00","SubCoal Teesport","Huntsman Drive","Port Clarance","Middlesbrough",,"TS2 1TT","25/01/2025","06:00-18:00",,,"0","SEA","NEA"
+"112394","N/42","N&P CRAYFORD MRF LTD","CSU",,"GEN","RN000364714","15FT  HEIGHT REST",,"Baled RDF","0","27000","264","0","N & P","Crayford Creek","Centry Wharf","Dartford",,"DA1 4QG","24/01/2025","08:00-18:00","SubCoal Teesport","Huntsman Drive","Port Clarance","Middlesbrough",,"TS2 1TT","27/01/2025","06:00-18:00",,,"0","SEA","NEA"
+"112398","K/2","KDM International Ltd","HSU",,"GEN","DR047064",,,"Timber","0","0","284","0","Global Shipping","8 Shed","King George Dock","Hull",,"HU9 5PR","22/01/2025","07:45-16:00","Pontrilas Packaging Ltd","Troserch Road,","Llangennech","Llanelli",,"SA14 8DZ","23/01/2025","07:00-14:00",,"Please arrange to collect and deliver one full load of timber
+on a min 4.2m tall trailer with rtachet straps.
+
+loading ref : DR047064 
+
+NB : All delivery notes will be on site, please deliver to the above address.","500","Y/H","SWA"
+"112400","E/3","Ellpro Timber Ltd","HSU",,"GEN",,,,"Timber","0","0","0","0",,,,"Norwich",,"NR1","17/01/2025","08:00-15:00",,,,"Plymouth",,"PL8","20/01/2025","08:00-16:00",,,"0","EAN","SWE"
+"112402","S/107","SUEZ Recycling & Recovery UK","HSU",,"GEN","REF 1499038",,,"Baled plastic","0","0","175","0","Suez Recycling","Evercreech Junction",,"Evercreech",,"BA4 6NA","21/01/2025","08:00-08:00","J A Young","High View Road",,"Alfreton",,"DE55 2DT","21/01/2025","08:00-16:00",,"REF 1499038
+
+PPE Waste Licence
+
+MIN 13 ratchet straps
+
+POD returned within 7 days from delivery","0","SWE","MID"
+"112410","B/29","Baxter Freight Ltd","CSU",,"GEN",,,,"Pallets","0","0","323","0","Nelipak","Elsham Wold Ind Est",,"Brigg",,"DN20 0SP","20/01/2025","08:00-12:00","Beckton Dickinson","Belliver Way",,"Plymouth",,"PL6 7BP","21/01/2025","08:00-10:00",,,"0","Y/H","SWE"
+"112412","W/5","Woodbridge Timber Ltd","HSU",,"GEN",,,,"Timber","0","0","0","0","TTS","C/O Global Shipping","1 Quay Immingham Dock","Immingham",,"DN40 2LZ","21/01/2025","07:30-16:00",,,,"Fife",,"KY9","22/01/2025","07:30-12:00",,"Trailer must be 8'6"" Internal Clearance
+Min 6 Ratchet Straps Required
+Min 16 Timber Bearers Required
+All PODS Must be returned within 7 Days 
+","600","Y/H","SSC"
+"112413","W/5","Woodbridge Timber Ltd","HSU",,"GEN",,,,"Timber","0","0","0","0","TTS","C/O Global Shipping","1 Quay Immingham Dock","Immingham",,"DN40 2LZ","21/01/2025","07:30-16:00",,,,"Fife",,"KY9","22/01/2025","07:30-12:00",,"Trailer must be 8'6"" Internal Clearance
+Min 6 Ratchet Straps Required
+Min 16 Timber Bearers Required
+All PODS Must be returned within 7 Days 
+","600","Y/H","SSC"
+"112414","W/5","Woodbridge Timber Ltd","HSU",,"GEN",,,,"Timber","0","0","0","0","TTS","C/O Global Shipping","1 Quay Immingham Dock","Immingham",,"DN40 2LZ","22/01/2025","07:30-16:00",,,,"Fife",,"KY9","23/01/2025","07:30-12:00",,"Trailer must be 8'6"" Internal Clearance
+Min 6 Ratchet Straps Required
+Min 16 Timber Bearers Required
+All PODS Must be returned within 7 Days 
+","600","Y/H","SSC"
+"112415","W/5","Woodbridge Timber Ltd","HSU",,"GEN",,,,"Timber","0","0","0","0","TTS","C/O Global Shipping","1 Quay Immingham Dock","Immingham",,"DN40 2LZ","21/01/2025","07:30-16:00",,,,"Fife",,"KY9","22/01/2025","07:30-12:00",,"Trailer must be 8'6"" Internal Clearance
+Min 6 Ratchet Straps Required
+Min 16 Timber Bearers Required
+All PODS Must be returned within 7 Days 
+","600","Y/H","SSC"
+"112416","W/5","Woodbridge Timber Ltd","HSU",,"GEN",,,,"Timber","0","0","0","0","TTS","C/O Global Shipping","1 Quay Immingham Dock","Immingham",,"DN40 2LZ","22/01/2025","07:30-16:00",,,,"Fife",,"KY9","23/01/2025","07:30-12:00",,"Trailer must be 8'6"" Internal Clearance
+Min 6 Ratchet Straps Required
+Min 16 Timber Bearers Required
+All PODS Must be returned within 7 Days 
+","600","Y/H","SSC"
+"112417","W/5","Woodbridge Timber Ltd","HSU",,"GEN",,,,"Timber","0","0","0","0","TTS","C/O Global Shipping","1 Quay Immingham Dock","Immingham",,"DN40 2LZ","22/01/2025","07:30-16:00",,,,"Fife",,"KY9","23/01/2025","07:30-12:00",,"Trailer must be 8'6"" Internal Clearance
+Min 6 Ratchet Straps Required
+Min 16 Timber Bearers Required
+All PODS Must be returned within 7 Days 
+","600","Y/H","SSC"
