@@ -1,11 +1,14 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def get_datetime_range(date_str, time_range):
     try:
         collection_date = datetime.strptime(date_str, '%d/%m/%Y')
 
         start_time_str, end_time_str = time_range.split('-')
-        start_time = datetime.strptime(start_time_str, '%H:%M')
+        if collection_date.date() == datetime.now().date():
+            start_time = datetime.now() + timedelta(hours=1)
+        else:
+            start_time = datetime.strptime(start_time_str, '%H:%M')
         end_time = datetime.strptime(end_time_str, '%H:%M')
 
         start_datetime = datetime(collection_date.year, collection_date.month, collection_date.day, start_time.hour, start_time.minute)
